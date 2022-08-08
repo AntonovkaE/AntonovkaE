@@ -1,16 +1,15 @@
-### Hi there 👋
+###  👋
 
-<!--
-**AntonovkaE/AntonovkaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Студента Яндекс.Практикума.
+- 🌱 Изучаю JavaScript, React.
+- 👯 Ищу возможность поработать над реальным проектом.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫  Свяжитесь со мной: t.me/ela_la
+                         sabirova.elvira.gam@gmail.com
+                         8 919 323 4452
+                         
+- ⚡ Случайные факты обо мне: проехала 500км за неделю на велике по горам;
+                            ~5k км автостопом;
+                            ~10 лет вегетаринства.
+                            
+                            
